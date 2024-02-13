@@ -32,6 +32,7 @@
 <p>Pada saat program ini dijalankan maka akan memunculkan daftar menu pilihan</p>
 <p>Didalam menu reservasi kamar terdapat transaksi seperti pemilihan kamar,pembayaran,dan struk transaksi</p>
 <p>Jika pelanggan memilih reservasi kamar yang sudah terisi, pelanggan akan diberikan pilihan untuk dimasukan kedalam antrian reservasi atau memilih kamar lain yang kosong</p>
+<p>Terdapat menu countdown untuk menyimulasikan daftar antrian reservasi, jadi kamar yang sudah terisi akan dikosongkan lalu pelanggan yang ada di dalam daftar antrian akan dimasukan sesuai kamar yang sudah di reservasi</p>
 
 ## Komponen Proyek
 <p>Komponen komponen yang kami gunakan sebagai berikut :</p>
