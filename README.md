@@ -54,6 +54,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="https://github.com/RhnFdly/Struktur-data_1_Sistem-Penjualan">Github</a></li>
+  <li>Github: <a href="https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
