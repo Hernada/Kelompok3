@@ -54,6 +54,6 @@
 
 ## Demo Proyek
 <ul>
-  <li>Github: <a href="[https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi](https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi/blob/main/Reservasi.java)https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi/blob/main/Reservasi.java">Github</a></li>
+  <li>Github: <a href="https://github.com/Hernada/Struktur-Data_Kelompok7_Reservasi/blob/main/Reservasi.java">Github</a></li>
   <li>Youtube: <a href="">Youtube</a></li>
 </ul>
